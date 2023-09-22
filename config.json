@@ -1,0 +1,12 @@
+{
+  "envs" : {
+    "DEV" : {
+      "demofx_bala" : "https://demo-eu.demo1.pricefx.com/"
+    },
+    "PROD" : { },
+    "QA" : { }
+  },
+  "keepLabelsIntact" : false,
+  "keepUserGroups" : false,
+  "keepDataEntitlements" : false
+}
